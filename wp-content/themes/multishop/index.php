@@ -8,6 +8,7 @@ $multishop_options = get_option( 'multishop_theme_options' ); ?>
 <section class="shoap-section">
   <div class="site-title-border"> </div>
   <div class="multishop-container">
+	<?php the_content(); ?>  
     <div class="col-md-9">
       <?php 
 	  	$multishop_args = array( 
