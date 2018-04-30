@@ -1,0 +1,226 @@
+@media only screen and (max-width: 1199px){
+	.container{
+		max-width: 970px;
+	}
+
+	.our-projects .col .text-holder .table-cell{padding: 0;}
+
+	.our-projects .col .text-holder .title{margin: 0 0 5px;}
+
+	.main-navigation li{margin-left: 30px;}
+
+	#primary,
+	#secondary{width: 100%;}
+
+}
+@media only screen and (max-width: 991px){
+	.container{max-width: 750px;}
+
+	.site-header{padding-bottom: 24px;}
+
+	#mobile-header {
+        display: block;
+        float: right;
+        margin-left: 27px;
+    }
+
+    #mobile-header a{
+    	display: block;
+    	width: 48px;
+    	height: 48px;
+    	border: 1px solid #fff;
+    	padding: 15px 13px;
+    }
+
+    #mobile-header a span{
+    	display: block;
+    	width: 20px;
+    	height: 3px;
+    	background: #fff;
+    	margin-bottom: 3px;
+    }
+
+    #mobile-header a span:last-child{margin-bottom: 0;}
+
+    .main-navigation{display: none;}
+
+    .banner .col{width: 100%;}
+
+    .banner .text{
+    	margin: 0 0 60px;
+    	text-align: center;
+    	font-size: 20px;
+    }
+
+    .banner .text .title{
+    	font-size: 36px;
+    	line-height: 42px;
+    }
+
+    .banner{padding-top: 140px;}
+
+    .banner form{
+    	max-width: 458px;
+    	margin: 0 auto;
+    }
+
+    .banner form:after{
+    	background: url(../images/bg-arrow2.png) no-repeat;
+    	width: 62px;
+    	height: 140px;
+    	top: -50px;
+    	left: auto;
+    	right: -75px;
+    }
+
+    .about .col,
+    .testimonial .col{width: 100%;}
+
+    .our-projects .col,
+    .our-services .col{width: 50%;}
+
+    .widget .search-form label{width: 77%;}
+}
+
+@media only screen and (max-width: 767px){
+	body{
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+	.container{width: 100%;}
+
+	.site-header .site-branding{
+		float: none;
+		display: block;
+		width: 100%;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+
+	.site-header .tel-link{float: left;}
+
+	.banner .text .title{
+		font-size: 26px;
+		line-height: 30px;
+	}
+
+	.banner{
+		padding-top: 170px;
+		padding-bottom: 40px;
+	}
+
+	.banner .text{margin-bottom: 30px;}
+
+	.banner form:after{background: none;}
+
+	.banner form{padding: 20px;}
+
+	.about .header .main-title,
+	.our-projects .header .main-title,
+	.our-services .header .main-title,
+	.testimonial .header .main-title,
+	.promotional-block2 .header .main-title{
+		font-size: 30px;
+		line-height: 36px;
+	}
+
+	.about .header .main-title:after,
+	.our-projects .header .main-title:after,
+	.our-services .header .main-title:after,
+	.testimonial .header .main-title:after,
+	.promotional-block2 .header .main-title:after{left: 35.8%;}
+
+	.about .header,
+	.our-projects .header,
+	.our-services .header,
+	.testimonial .header,
+	.promotional-block2 .header{
+		font-size: 16px;
+		line-height: 22px;
+	}
+
+	.about,
+	.our-projects,
+	.our-services,
+	.our-clients,
+	.testimonial,
+	.promotional-block2{padding: 20px 0;}
+
+	.promotional-block{padding: 40px 0;}
+
+	.promotional-block .holder{
+		font-size: 22px;
+		line-height: 26px;
+	}
+
+	.promotional-block .holder strong{
+		font-size: 26px;
+		line-height: 30px;
+	}
+
+	.promotional-block .holder .btn{
+		font-size: 20px;
+		padding: 0 10px;
+		width: 100%;
+	}
+
+	.our-projects .col,
+	.our-services .col,
+	.our-clients .col{width: 100%;}
+
+	.our-clients .col{margin: 0 0 20px;}
+
+	.promotional-block2 form{padding: 20px;}
+
+	.site-footer .widget{width: 100%;}
+
+	.site-footer .footer-t{padding: 20px 0;}
+
+	.promotional-block2 form:after{display: none;}
+
+	#primary .post .post-thumbnail,
+	.search #primary .page .post-thumbnail{
+		width: 100%;
+		margin-right: 0;
+		margin-bottom: 30px;
+	}
+
+	#primary .post .text-holder,
+	.search #primary .page .text-holder{width: 100%;}
+
+	#primary .post .post-thumbnail img,
+	.search #primary .page .post-thumbnail img{width: 100%;}
+
+	.error404 .error-holder h1{font-size: 140px;}
+
+	.search .top-section .search-form label{width: 80%;}
+
+	#primary .author .text-holder{width: 100%;}
+
+	.comments-area .comment-list .comment-body .reply{
+		top: auto;
+		bottom: 0;
+	}
+
+	.comments-area .comment-list .children{
+		padding: 0;
+		margin: 0;
+	}
+
+	.comments-area .comment-form .comment-form-author,
+	.comments-area .comment-form .comment-form-email,
+	.comments-area .comment-form .comment-form-url{
+		width: 100%;
+		margin-left: 0;
+	}
+	
+	.site-footer .column{
+		width: 100%;
+		margin-bottom: 30px;
+	}
+
+	.promotional-block,
+	.our-services,
+	.promotional-block2{background-attachment: scroll;}
+}

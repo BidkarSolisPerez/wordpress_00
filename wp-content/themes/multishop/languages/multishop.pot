@@ -1,0 +1,742 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Multishop V1.2\n"
+"POT-Creation-Date: 2017-03-21 18:56+0530\n"
+"PO-Revision-Date: 2014-11-27 14:34+0530\n"
+"Last-Translator: FasterThemes <support@fasterthemes.com>\n"
+"Language-Team: FasterThemes <support@fasterthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:9
+msgid "404 Page"
+msgstr ""
+
+#: 404.php:19
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:20
+msgid "This is somewhat embarrassing, what do you think?"
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: author.php:9
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: category.php:9
+#, php-format
+msgid "Category : %s"
+msgstr ""
+
+#: comments.php:18
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: content.php:27
+msgid "Pages:"
+msgstr ""
+
+#: footer.php:41
+#, php-format
+msgid "Powered by %1$s"
+msgstr ""
+
+#: functions.php:27
+msgid "Top primary menu"
+msgstr ""
+
+#: functions.php:59
+msgctxt "Istok+Web font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:80
+msgctxt "comment form placeholder"
+msgid "First Name"
+msgstr ""
+
+#: functions.php:91
+msgctxt "comment form placeholder"
+msgid "Email Id"
+msgstr ""
+
+#: functions.php:102
+msgctxt "comment form placeholder"
+msgid "Website"
+msgstr ""
+
+#: functions.php:118
+msgctxt "comment form placeholder"
+msgid "Comment"
+msgstr ""
+
+#: functions/breadcrumbs.php:8
+msgid "Home"
+msgstr ""
+
+#: functions/breadcrumbs.php:26
+#, php-format
+msgid "%1$s Archive by category %2$s"
+msgstr ""
+
+#: functions/breadcrumbs.php:29
+#, php-format
+msgid "%1$s Search results for \"%2$s\" %3$s"
+msgstr ""
+
+#: functions/breadcrumbs.php:32 functions/breadcrumbs.php:33
+#: functions/breadcrumbs.php:34 functions/breadcrumbs.php:38
+#: functions/breadcrumbs.php:41 functions/breadcrumbs.php:60
+#, php-format
+msgid "%1$s %2$s %3$s"
+msgstr ""
+
+#: functions/breadcrumbs.php:66
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions/breadcrumbs.php:90
+#, php-format
+msgid "%1$s Posts tagged \"%2$s\""
+msgstr ""
+
+#: functions/breadcrumbs.php:94
+#, php-format
+msgid "%1$s Articles posted by %2$s"
+msgstr ""
+
+#: functions/breadcrumbs.php:97
+#, php-format
+msgid "%1$s Error 404 %1$s"
+msgstr ""
+
+#: functions/breadcrumbs.php:101 functions/theme-default-setup.php:121
+msgid "Page"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:52 functions/tgm-plugins.php:28
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:53 functions/tgm-plugins.php:29
+msgid "Install Plugins"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:54 functions/tgm-plugins.php:30
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:55
+msgid "Something went wrong."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:56 functions/tgm-plugins.php:32
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:57 functions/tgm-plugins.php:33
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:58 functions/tgm-plugins.php:34
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:59 functions/tgm-plugins.php:35
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:60 functions/tgm-plugins.php:36
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:61 functions/tgm-plugins.php:37
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:62 functions/tgm-plugins.php:38
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:63 functions/tgm-plugins.php:39
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:64 functions/tgm-plugins.php:40
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:65 functions/tgm-plugins.php:41
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:66 functions/tgm-plugins.php:42
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:67
+msgid "Return to the dashboard"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:68
+#: functions/class-tgm-plugin-activation.php:1023 functions/tgm-plugins.php:43
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:69
+#: functions/class-tgm-plugin-activation.php:839
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/class-tgm-plugin-activation.php:70
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:71
+msgid "Dismiss this notice"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:259
+#: functions/class-tgm-plugin-activation.php:1129
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:561
+msgid "Private Repository"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:564
+msgid "Pre-Packaged"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:566
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:568
+msgid "Required"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:568
+msgid "Recommended"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:570
+msgid "Not Installed"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:572
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:618
+#: functions/class-tgm-plugin-activation.php:675
+msgid "Install"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:636
+#: functions/class-tgm-plugin-activation.php:676
+msgid "Activate"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:659
+msgid "No plugins to install or activate"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:666
+msgid "Plugin"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:667
+msgid "Source"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:668
+msgid "Type"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:669
+msgid "Status"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:741
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:822
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1013
+msgid "Install package not available."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1014
+#, php-format
+msgid "Downloading install package from %1$s %s %1$s"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1015
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1016
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1017
+msgid "Plugin install failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1018
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1022
+msgid "Plugin activation failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1062
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1063
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1063
+#: functions/class-tgm-plugin-activation.php:1072
+msgid "Show Details"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1063
+#: functions/class-tgm-plugin-activation.php:1072
+msgid "Hide Details"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1064
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1065
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1069
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1070
+#, php-format
+msgid "An error occurred while installing %1$s: %2$s."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1071
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1072
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1073
+msgid "All installations have been completed."
+msgstr ""
+
+#: functions/class-tgm-plugin-activation.php:1074
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: functions/custom-header.php:30
+msgctxt "header image description"
+msgid "Circle"
+msgstr ""
+
+#: functions/recent-post-widget.php:7
+msgid "Displays a recent post with thumbnail"
+msgstr ""
+
+#: functions/recent-post-widget.php:8
+msgid "Multishop Recent Post"
+msgstr ""
+
+#: functions/recent-post-widget.php:15
+msgid "Title"
+msgstr ""
+
+#: functions/recent-post-widget.php:19
+msgid "Number of post to show"
+msgstr ""
+
+#: functions/tgm-plugins.php:11
+msgid "WooCommerce excelling eCommerce"
+msgstr ""
+
+#: functions/tgm-plugins.php:31
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions/tgm-plugins.php:44
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions/theme-default-setup.php:14
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions/theme-default-setup.php:16
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: functions/theme-default-setup.php:23
+msgid "Footer Area One"
+msgstr ""
+
+#: functions/theme-default-setup.php:25
+msgid "Footer Area One that appears on the footer-1."
+msgstr ""
+
+#: functions/theme-default-setup.php:32
+msgid "Footer Area Two"
+msgstr ""
+
+#: functions/theme-default-setup.php:34
+msgid "Footer Area Two that appears on the footer-2."
+msgstr ""
+
+#: functions/theme-default-setup.php:41
+msgid "Footer Area Three"
+msgstr ""
+
+#: functions/theme-default-setup.php:43
+msgid "Footer Area Three that appears on the footer-3."
+msgstr ""
+
+#: functions/theme-default-setup.php:51
+msgid "Footer Area Four"
+msgstr ""
+
+#: functions/theme-default-setup.php:53
+msgid "Footer Area Four that appears on the footer-4."
+msgstr ""
+
+#: functions/theme-default-setup.php:71
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions/theme-default-setup.php:76 functions/theme-default-setup.php:78
+#: functions/theme-default-setup.php:80
+#, php-format
+msgid ""
+"<div class=\"multishop-tags\"><i class=\"fa fa-calendar\"></i> %3$s <i class="
+"\"fa fa-user\"></i> %4$s </div>"
+msgstr ""
+
+#: functions/theme-default-setup.php:94
+msgid "Continue Reading"
+msgstr ""
+
+#: header.php:80
+msgid "View your shopping cart"
+msgstr ""
+
+#: header.php:80
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: page-template/homepage.php:100
+msgid "TOP RATED PRODUCTS"
+msgstr ""
+
+#: page-template/homepage.php:117 woocommerce/archive-product.php:90
+msgid "Banner"
+msgstr ""
+
+#: page-template/homepage.php:123 woocommerce/archive-product-new.php:92
+#: woocommerce/archive-product.php:98
+msgid "DETAILS"
+msgstr ""
+
+#: page-template/homepage.php:123 woocommerce/archive-product-new.php:92
+#: woocommerce/archive-product.php:98
+msgid "ADD TO CART"
+msgstr ""
+
+#: search.php:9
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: tag.php:9
+#, php-format
+msgid "Tag Archives : %s"
+msgstr ""
+
+#: theme-options/fasterthemes.php:42
+msgid "FasterThemes Options"
+msgstr ""
+
+#: theme-options/fasterthemes.php:43 theme-options/fasterthemes.php:68
+msgid "Theme Options"
+msgstr ""
+
+#: theme-options/fasterthemes.php:65
+msgid "FasterThemes"
+msgstr ""
+
+#: theme-options/fasterthemes.php:69 theme-options/fasterthemes.php:199
+msgid "Save Options"
+msgstr ""
+
+#: theme-options/fasterthemes.php:78
+msgid "Basic Settings"
+msgstr ""
+
+#: theme-options/fasterthemes.php:79
+msgid "Social Settings"
+msgstr ""
+
+#: theme-options/fasterthemes.php:80
+msgid "Home Page Settings"
+msgstr ""
+
+#: theme-options/fasterthemes.php:81
+msgid "PRO Theme Features"
+msgstr ""
+
+#: theme-options/fasterthemes.php:95
+msgid "Site Logo  (Preferred size : 117px * 43px)"
+msgstr ""
+
+#: theme-options/fasterthemes.php:97
+msgid ""
+"Size of logo should be exactly 117x43px for best results. Leave blank to use "
+"text heading."
+msgstr ""
+
+#: theme-options/fasterthemes.php:99 theme-options/fasterthemes.php:114
+#: theme-options/fasterthemes.php:172
+msgid "No file chosen"
+msgstr ""
+
+#: theme-options/fasterthemes.php:100 theme-options/fasterthemes.php:115
+#: theme-options/fasterthemes.php:173
+msgid "Upload"
+msgstr ""
+
+#: theme-options/fasterthemes.php:109
+msgid "Favicon (Preferred size : 32px * 32px)"
+msgstr ""
+
+#: theme-options/fasterthemes.php:111
+msgid "Size of favicon should be exactly 32x32px for best results."
+msgstr ""
+
+#: theme-options/fasterthemes.php:124
+msgid "Copyright Text"
+msgstr ""
+
+#: theme-options/fasterthemes.php:127
+msgid ""
+"Some text regarding copyright of your site, you would like to display in the "
+"footer."
+msgstr ""
+
+#: theme-options/fasterthemes.php:137
+msgid "Facebook"
+msgstr ""
+
+#: theme-options/fasterthemes.php:140
+msgid "Facebook profile or page URL i.e."
+msgstr ""
+
+#: theme-options/fasterthemes.php:146
+msgid "Twitter"
+msgstr ""
+
+#: theme-options/fasterthemes.php:149
+msgid "Twitter profile or page URL i.e."
+msgstr ""
+
+#: theme-options/fasterthemes.php:155
+msgid "Google Plus"
+msgstr ""
+
+#: theme-options/fasterthemes.php:158
+msgid "Google Plus profile or page URL i.e."
+msgstr ""
+
+#: theme-options/fasterthemes.php:204
+msgid "Options saved successfully."
+msgstr ""
+
+#: woocommerce/archive-product-new.php:11 woocommerce/archive-product.php:10
+msgid "SHOP"
+msgstr ""
+
+#: woocommerce/archive-product-new.php:35
+#: woocommerce/archive-product-new.php:116 woocommerce/archive-product.php:32
+#: woocommerce/archive-product.php:122
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/archive-product-new.php:37
+#: woocommerce/archive-product-new.php:118 woocommerce/archive-product.php:34
+#: woocommerce/archive-product.php:124
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/archive-product-new.php:39
+#: woocommerce/archive-product-new.php:120 woocommerce/archive-product.php:36
+#: woocommerce/archive-product.php:126
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/archive-product-new.php:46
+#: woocommerce/archive-product-new.php:127 woocommerce/archive-product.php:44
+#: woocommerce/archive-product.php:134
+msgid "Show All"
+msgstr ""
+
+#: woocommerce/archive-product-new.php:63 woocommerce/archive-product.php:67
+msgid "all"
+msgstr ""
+
+#: woocommerce/archive-product-new.php:142 woocommerce/archive-product.php:157
+msgid "All"
+msgstr ""
+
+#: woocommerce/single-product.php:59
+msgid "Availability:"
+msgstr ""
+
+#: woocommerce/single-product.php:66
+msgid "Out Stock"
+msgstr ""
+
+#: woocommerce/single-product.php:72 woocommerce/single-product.php:91
+#: woocommerce/single-product.php:100
+msgid "Read More"
+msgstr ""
+
+#: woocommerce/single-product.php:83
+msgid "Select options"
+msgstr ""
+
+#: woocommerce/single-product.php:87
+msgid "View options"
+msgstr ""
+
+#: woocommerce/single-product.php:96
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/single-product.php:107
+msgid "add to cart"
+msgstr ""
+
+#: woocommerce/single-product.php:122
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product.php:123 woocommerce/single-product.php:136
+msgid "Reviews"
+msgstr ""
